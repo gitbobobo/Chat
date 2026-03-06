@@ -458,7 +458,7 @@ dependencies: [
 ## Requirements
 
 * iOS 17+
-* macOS 14+ (Mac Catalyst)
+* macOS (Mac Catalyst)
 * Xcode 15+
 
 ## Our other open source SwiftUI libraries

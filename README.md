@@ -458,6 +458,7 @@ dependencies: [
 ## Requirements
 
 * iOS 17+
+* macOS 14+ (Mac Catalyst)
 * Xcode 15+
 
 ## Our other open source SwiftUI libraries
@@ -476,4 +477,3 @@ dependencies: [
 [FlagAndCountryCode](https://github.com/exyte/FlagAndCountryCode) - Phone codes and flags for every country    
 [SVGView](https://github.com/exyte/SVGView) - SVG parser    
 [LiquidSwipe](https://github.com/exyte/LiquidSwipe) - Liquid navigation animation
-

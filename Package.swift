@@ -6,7 +6,8 @@ let package = Package(
     name: "Chat",
     defaultLocalization: "en",
     platforms: [
-        .iOS(.v17)
+        .iOS(.v17),
+        .macCatalyst(.v17)
     ],
     products: [
         .library(
